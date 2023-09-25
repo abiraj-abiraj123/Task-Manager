@@ -1,0 +1,26 @@
+body{
+    background-image: url('bgtodo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+}
+span{
+    padding-left: 50px;
+}
+input{
+    margin-top: 5%;
+    border-radius: 10px;
+    border-color: b;
+}
+button{
+    background-color: ghostwhite;
+    color: black;
+}
+button{
+    border-radius: 10px;
+}
+button:hover{
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
